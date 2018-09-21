@@ -1,2 +1,2 @@
 # AI
-Chatbot for course selection
+An AI chatbot for course selection in Minerva Schools @ KGI
